@@ -4,10 +4,11 @@
   "description": "React with Local Storage: Demo Start",
   "main": "src/index.js",
   "dependencies": {
-    "uid": "^2.0.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "uid": "^2.0.1",
+    "use-local-storage-state": "^18.3.3"
   },
   "devDependencies": {
     "@babel/runtime": "7.20.0",
